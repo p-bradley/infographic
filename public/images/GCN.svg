@@ -14,6 +14,8 @@
 	.st8{fill:#7C86BF;stroke:#000000;stroke-miterlimit:10;}
 	.st9{fill:#EEECF5;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 	.st10{fill:none;stroke:#000000;stroke-miterlimit:10;}
+
+	.st4:hover{fill:#317853;}
 </style>
 <path id="Z_button" class="st0" d="M495.3,28.6c15.6-5.9,22.6-3.9,22.6-3.9c59,15,80,36,80,36c10,10,0,14,0,14L495.3,28.6z"/>
 <path id="Left_bumper" class="st1" d="M80.9,67.7c4-21,22-31,22-31c15-9,32-7,32-7c26,6,28,16,28,16L80.9,67.7z"/>

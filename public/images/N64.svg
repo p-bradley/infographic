@@ -16,6 +16,8 @@
 	.st10{fill:#C5C1C2;}
 	.st11{fill:#C5C1C2;stroke:#939393;stroke-miterlimit:10;}
 	.st12{fill:#3D3D3D;stroke:#C5C1C2;stroke-miterlimit:10;}
+
+	.st8:hover{fill:#cf9a00;}
 </style>
 <path id="right_bumper" class="st0" d="M615,95.3c1.1-21.5,0-21.5,0-21.5s-38.3-16.1-43.6-17.2c-5.3-1.1-91.4-12.3-91.4-12.3l0,22
 	L615,95.3z"/>

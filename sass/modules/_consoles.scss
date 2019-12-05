@@ -12,3 +12,13 @@
 .bottom{
     margin-bottom: 100px;
 }
+
+.revealFacts{
+    animation: fade-in 4.2s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+    animation-fill-mode: forwards;
+}
+
+@keyframes fade-in {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}

@@ -15,6 +15,9 @@
 	.st9{fill:#24282B;}
 	.st10{fill:#393C41;}
 	.st11{fill:#373C40;}
+
+	.st1:hover{fill:#1edc00;}
+	.st2:hover{fill:#FF3278;}
 </style>
 <path id="left_bumper" class="st0" d="M4.6,45.6c2-11,15-47,73-45l-22,28l-51,19V45.6z"/>
 <path id="right_bumper" class="st0" d="M729.1,45.6c-2-11-15-47-73-45l22,28l51,19V45.6z"/>

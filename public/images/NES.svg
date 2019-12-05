@@ -9,6 +9,8 @@
 	.st3{fill:#A7A894;stroke:#000000;stroke-miterlimit:10;}
 	.st4{fill:#232323;stroke:#000000;stroke-miterlimit:10;}
 	.st5{fill:#FF0000;stroke:#000000;stroke-miterlimit:10;}
+
+	.st5:hover{fill:#7f0100;}
 </style>
 <path id="plastic" class="st0" d="M630.8,274.5H7.2c-3.7,0-6.7-3-6.7-6.7V7.2c0-3.7,3-6.7,6.7-6.7h623.6c3.7,0,6.7,3,6.7,6.7v260.6
 	C637.5,271.5,634.5,274.5,630.8,274.5z"/>

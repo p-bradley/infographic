@@ -14,7 +14,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg1.classList.toggle('revealFacts');
             svg1.classList.remove('hide');
         },
-        offset: -300
+        offset: 0
     });
 
     var waypoint1 = new Waypoint({
@@ -25,7 +25,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg2.classList.toggle('revealFacts');
             svg2.classList.remove('hide');
         },
-        offset: -500
+        offset: -300
     });
 
     var waypoint2 = new Waypoint({
@@ -36,7 +36,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg3.classList.toggle('revealFacts');
             svg3.classList.remove('hide');
         },
-        offset: -450
+        offset: -400
     });
 
     var waypoint3 = new Waypoint({
@@ -47,7 +47,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg4.classList.toggle('revealFacts');
             svg4.classList.remove('hide');
         },
-        offset: -430
+        offset: -900
     });
 
     var waypoint4 = new Waypoint({
@@ -58,7 +58,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg5.classList.toggle('revealFacts');
             svg5.classList.remove('hide');
         },
-        offset: -380
+        offset: -1600
     });
 
     var waypoint5 = new Waypoint({
@@ -69,7 +69,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg6.classList.toggle('revealFacts');
             svg6.classList.remove('hide');
         },
-        offset: -270
+        offset: -2100
     });
 
     const btn = document.querySelectorAll('.see-more'),
