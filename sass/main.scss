@@ -1,3 +1,7 @@
 @import 'modules/_consoles';
 @import 'modules/_nav';
 @import 'modules/_info';
+@import 'modules/_queries';
+.hide {
+    display: none !important;
+}

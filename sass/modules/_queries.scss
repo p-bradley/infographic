@@ -1,0 +1,41 @@
+@media screen and (min-width:1000px) {
+    .lightbox h3, h4 {
+        font-size: 40px !important;
+    }
+
+    .lightbox p {
+        font-size: 26px !important;
+        line-height: 40px !important;
+
+    }
+
+    .lightbox h2 {
+        font-size: 80px !important;
+    }
+
+    .see-more {
+        height: 80px !important;
+    }
+}
+
+@media screen and (min-width:700px) {
+    .lightbox h3, h4 {
+        font-size: 24px;
+    }
+
+    .lightbox p {
+        font-size: 20px;
+        line-height: 30px;
+
+    }
+
+    .lightbox h2 {
+        font-size: 40px;
+    }
+
+    .see-more {
+        width: 90% !important;
+        height: 40px;
+    }
+}
+
