@@ -14,7 +14,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg1.classList.toggle('revealFacts');
             svg1.classList.remove('hide');
         },
-        offset: -50
+        offset: -300
     });
 
     var waypoint1 = new Waypoint({
@@ -25,7 +25,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg2.classList.toggle('revealFacts');
             svg2.classList.remove('hide');
         },
-        offset: -400
+        offset: -500
     });
 
     var waypoint2 = new Waypoint({
@@ -36,7 +36,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg3.classList.toggle('revealFacts');
             svg3.classList.remove('hide');
         },
-        offset: -750
+        offset: -450
     });
 
     var waypoint3 = new Waypoint({
@@ -47,7 +47,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg4.classList.toggle('revealFacts');
             svg4.classList.remove('hide');
         },
-        offset: -1100
+        offset: -430
     });
 
     var waypoint4 = new Waypoint({
@@ -58,7 +58,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg5.classList.toggle('revealFacts');
             svg5.classList.remove('hide');
         },
-        offset: -1450
+        offset: -380
     });
 
     var waypoint5 = new Waypoint({
@@ -69,7 +69,7 @@ let svg1 = document.querySelector('#waypoint'),
             svg6.classList.toggle('revealFacts');
             svg6.classList.remove('hide');
         },
-        offset: -1800
+        offset: -270
     });
 
     const btn = document.querySelectorAll('.see-more'),
@@ -79,7 +79,7 @@ let svg1 = document.querySelector('#waypoint'),
                 lightbox.querySelector('.consoleName').textContent = `${consoleInfo.console}`;
                 lightbox.querySelector('.consoleDate').textContent = `${consoleInfo.date}`;
                 lightbox.querySelector('.consoleSold').textContent = `${consoleInfo.sold}`;
-                lightbox.querySelector('.consoleDesc').textContent = `${consoleInfo.desc}`;
+                lightbox.querySelector('.consoleDesc').textContent = `${consoleInfo.description}`;
 
             }
 
