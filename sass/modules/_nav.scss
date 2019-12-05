@@ -1,0 +1,23 @@
+.container {
+    background-color: #ef5350;
+}
+
+.line {
+    background-color: white;
+    width: 1%;
+    height: 1000px;
+    position: fixed;
+    left: 50%;
+}
+
+.see-more{
+    max-width: 4%;
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    border: solid 2px white;
+    border-radius: 100%;
+    position: relative;
+    top: -180px;
+    left: 48.4%;
+}

@@ -1,0 +1,30 @@
+.lightbox {
+    position: fixed;
+    right: 5%;
+    top: 40px;
+    width: 40%;
+    color: white;
+}
+
+.lightbox h2{
+    font-family: 'Oswald';
+    font-size: 80px;
+    text-align: center;
+}
+
+.lightbox h3, h4, p {
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 30px;
+}
+
+.lightbox h3, h4 {
+    text-align: center;
+    font-size: 40px;
+  
+}
+
+.lightbox p {
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0.8px;
+}
