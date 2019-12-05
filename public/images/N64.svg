@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="N64_Controller" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 693.7 649.4" style="enable-background:new 0 0 693.7 649.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1E1E1E;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#A29E9F;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#A5A5A5;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#7C7C7C;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#FF0000;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:#22883F;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#2B26B8;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#444444;stroke-width:2;stroke-miterlimit:10;}
+	.st8{fill:#FBC423;stroke:#000000;stroke-miterlimit:10;}
+	.st9{fill:#353535;stroke:#000000;stroke-miterlimit:10;}
+	.st10{fill:#C5C1C2;}
+	.st11{fill:#C5C1C2;stroke:#939393;stroke-miterlimit:10;}
+	.st12{fill:#3D3D3D;stroke:#C5C1C2;stroke-miterlimit:10;}
+</style>
+<path id="right_bumper" class="st0" d="M615,95.3c1.1-21.5,0-21.5,0-21.5s-38.3-16.1-43.6-17.2c-5.3-1.1-91.4-12.3-91.4-12.3l0,22
+	L615,95.3z"/>
+<path id="left_bumper" class="st0" d="M72.9,94.8c-1-21.3,0-21.3,0-21.3s36-16,41-17c5-1.1,86-12.1,86-12.1l0,21.7L72.9,94.8z"/>
+<path id="controller_body" class="st1" d="M33.5,489.3c-27-70-33-136-33-136c2-116,11-119,11-119c1-111,48-135,48-135
+	C117,52.8,193,59.8,193,59.8c17-34,35-40,35-40c93-30,171-16,171-16c93,12,85,31,85,31c9,25,15,22,15,22c110,16,138,41,138,41
+	c61,80,45,124,45,124c24,154,2,249,2,249c-12,42-54,30-54,30c-40-38-69-163-69-163c-15-8-28-5-28-5c-75,15-68,20-68,20
+	c-18,28-23,48-23,48c-15,209-72,246-72,246c-40,11-56-24-56-24c-60-225-72-261-72-261c-65-45-100-25-100-25c-39,176-67,168-67,168
+	C28,500.8,33.5,489.3,33.5,489.3z"/>
+<circle id="movement_body" class="st2" cx="134.5" cy="213.3" r="73.5"/>
+<path id="movement" class="st3" d="M196.5,195v35.5c0,3.7-3,6.7-6.7,6.7h-30.3v30.3c0,3.7-3,6.7-6.7,6.7h-35.5c-3.7,0-6.7-3-6.7-6.7
+	v-30.3H80.2c-3.7,0-6.7-3-6.7-6.7V195c0-3.7,3-6.7,6.7-6.7h30.3V158c0-3.7,3-6.7,6.7-6.7h35.5c3.7,0,6.7,3,6.7,6.7v30.3h30.3
+	C193.5,188.3,196.5,191.3,196.5,195z"/>
+<circle id="start" class="st4" cx="351.5" cy="239.3" r="24.5"/>
+<circle id="B_button" class="st5" cx="483.5" cy="234.3" r="26.5"/>
+<circle id="A_button" class="st6" cx="533.5" cy="282.3" r="26.5"/>
+<circle id="ring_button" class="st7" cx="586.5" cy="190.3" r="40.5"/>
+<circle id="Down_button" class="st8" cx="586.5" cy="229.3" r="20.5"/>
+<circle id="Right_button" class="st8" cx="627.5" cy="190.3" r="20.5"/>
+<circle id="Left_button" class="st8" cx="545.5" cy="190.3" r="20.5"/>
+<circle id="Up_button" class="st8" cx="586.5" cy="151.3" r="20.5"/>
+<circle id="analog_body" class="st9" cx="354" cy="375.8" r="72"/>
+<path id="analog_inside" class="st0" d="M345.5,423.2l-24.8-10.9c-3.3-1.4-5.8-4.1-7.1-7.4l-9.8-25.2c-1.3-3.3-1.2-7,0.2-10.3
+	l10.9-24.8c1.4-3.3,4.1-5.8,7.4-7.1l25.2-9.8c3.3-1.3,7-1.2,10.3,0.2l24.8,10.9c3.3,1.4,5.8,4.1,7.1,7.4l9.8,25.2
+	c1.3,3.3,1.2,7-0.2,10.3l-10.9,24.8c-1.4,3.3-4.1,5.8-7.4,7.1l-25.2,9.8C352.5,424.7,348.8,424.7,345.5,423.2z"/>
+<circle id="ring_6" class="st10" cx="351.8" cy="375.5" r="27.8"/>
+<circle id="ring_5" class="st11" cx="351.7" cy="375.2" r="24.3"/>
+<circle id="ring_4" class="st11" cx="351.9" cy="375.4" r="20.1"/>
+<circle id="ring_3" class="st11" cx="352" cy="374.5" r="16"/>
+<circle id="ring_2" class="st11" cx="352.1" cy="374.9" r="11.9"/>
+<circle id="ring_1" class="st12" cx="351.4" cy="375.9" r="3.6"/>
+</svg>

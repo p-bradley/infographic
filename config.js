@@ -3,7 +3,7 @@ const config = {
     port: 3306,
     uname: 'root',
     pname: '',
-    db: 'db_interactive'
+    db: 'interactive'
 }
 
 module.exports = config;
